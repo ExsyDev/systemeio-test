@@ -1,0 +1,9 @@
+api_payment:
+    path: /api/payment
+    controller: App\Controller\ApiController::payment
+    methods: POST
+
+api_calculation:
+    path: /api/calculation
+    controller: App\Controller\ApiController::calculation
+    methods: POST

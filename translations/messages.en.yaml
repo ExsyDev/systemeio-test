@@ -1,0 +1,10 @@
+system.product.not_found: product not found
+system.tax.not_found: tax not found
+system.coupon.not_found: coupon not found
+
+api.calculation.success: calculation success
+api.calculation.error: calculation error
+
+api.payment.success: payment success
+api.payment.error: payment error
+
